@@ -19,6 +19,7 @@ let plPL = {
   "optionFusee"     :"(Re)Switched testowy payload (fusee)",
   "optionSXOS"      :"SX OS (All Firmwares)",
   "optionUpload"    :"Załaduj payload",
+  "h3Log"           :"Log:",
   "h4GetByteArray"  :"Uzyskaj ciąg bajtów payloadu (nie uruchamiaj)",
   "goButton"        :"Dostarcz payload",
   "clearlogsbutton" :"Wyczyść logi",

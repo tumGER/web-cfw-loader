@@ -18,6 +18,7 @@ let deDE = {
   "optionFusee"     :"(Re)Switched Test Payload (fusee)",
   "optionSXOS"      :"SX OS (Alle Firmwares)",
   "optionUpload"    :"Eigenes Payload hochladen",
+  "h3Log"           :"Protokoll:",
   "h4GetByteArray"  :"Erhalte das Payload Byte-Array (nicht senden)",
   "goButton"        :"Sende das Payload!",
   "clearlogsbutton" :"Protokoll leeren",

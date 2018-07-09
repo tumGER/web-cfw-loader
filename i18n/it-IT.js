@@ -18,6 +18,7 @@ let itIT = {
   "optionFusee"     :"(Re)Switched payload di test (fusee)",
   "optionSXOS"      :"SX OS (All Firmwares)",
   "optionUpload"    :"Carica payload",
+  "h3Log"           :"Log:",
   "h4GetByteArray"  :"Ottieni byte array del payload (no exploit)",
   "goButton"        :"Avvia Payload!",
   "clearlogsbutton" :"Pulisci Logs",

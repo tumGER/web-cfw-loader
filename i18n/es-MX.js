@@ -18,6 +18,7 @@ let esMX = {
   "optionFusee"     :"Payload de prueba de (Re)Switched (fusee)",
   "optionSXOS"      :"SX OS (Todos los Firmwares)",
   "optionUpload"    :"Subir Payload",
+  "h3Log"           :"Log:",
   "h4GetByteArray"  :"Obtener matriz de bytes del payload (sin exploit)",
   "goButton"        :"Enviar Payload!",
   "clearlogsbutton" :"Borrar registro",

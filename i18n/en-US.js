@@ -18,6 +18,7 @@ let enUS = {
   "optionFusee"     :"(Re)Switched test payload (fusee)",
   "optionSXOS"      :"SX OS (All Firmwares)",
   "optionUpload"    :"Upload Payload",
+  "h3Log"           :"Log:",
   "h4GetByteArray"  :"Get payload byte array (don't sploit)",
   "goButton"        :"Deliver Payload!",
   "clearlogsbutton" :"Clear Logs",

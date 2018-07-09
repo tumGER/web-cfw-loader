@@ -18,6 +18,7 @@ let ptBR = {
   "optionFusee"     :"Payload de teste (Re)Switched (fusee)",
   "optionSXOS"      :"SX OS (All Firmwares)",
   "optionUpload"    :"Carregar Payload",
+  "h3Log"           :"Log:",
   "h4GetByteArray"  :"Recuperar array de bytes do payload (favor não exploitar)",
   "goButton"        :"Enviar Payload!",
   "clearlogsbutton" :"Limpar Logs",
